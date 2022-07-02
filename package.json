@@ -1,0 +1,22 @@
+{
+  "name": "itachi-blockchain-network",
+  "version": "1.0.0",
+  "description": "This is a blockchain network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "keywords": [
+    "blockchain",
+    "cryptography",
+    "virtual machine"
+  ],
+  "author": "Nnaemeka Onukwube",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
